@@ -620,5 +620,3 @@ This project is licensed under the MIT License.
 ---
 
 **ProjectArc** - Built with ❤️ using the MERN stack
-#   P r o j e c t A r c  
- 
