@@ -8,6 +8,7 @@ import {
     useMarkAllAsReadMutation,
 } from '../../features/notifications/notificationsAPI';
 import { FiBell, FiUser, FiLogOut, FiSettings } from 'react-icons/fi';
+import Logo from '../../assets/Logo.jpg';
 
 const Navbar = () => {
     const dispatch = useDispatch();
@@ -30,9 +31,7 @@ const Navbar = () => {
             <div className="h-full px-6 flex items-center justify-between">
                 {/* Logo */}
                 <Link to="/dashboard" className="flex items-center space-x-2">
-                    <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center">
-                        <span className="text-white font-bold text-lg">P</span>
-                    </div>
+                    <img src={Logo} alt="ProjectArc Logo" className="w-8 h-8 rounded-lg object-cover" />
                     <span className="text-xl font-bold text-gray-800">ProjectArc</span>
                 </Link>
 

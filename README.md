@@ -2,7 +2,7 @@
 
 A production-ready MERN stack Project Management Tool with real-time collaboration, Kanban boards, Gantt charts, and comprehensive team management features.
 
-![ProjectArc Banner](https://via.placeholder.com/1200x300/3B82F6/FFFFFF?text=ProjectArc+-+Project+Management+Tool)
+![ProjectArc Logo](client/src/assets/Logo.jpg)
 
 ## 📋 Table of Contents
 
@@ -604,10 +604,10 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
+**Khuzaim Adnan Qureshi**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Khuzaim123](https://github.com/Khuzaim123)
+- Email: khuzaimadnana@gmail.com
 
 ## 🙏 Acknowledgments
 
